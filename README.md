@@ -1,2 +1,4 @@
 # elaina-md
 Script Whatsapp bot, Dibuat dengan Baileys dan Map()
+
+Ntar bg gw masih sibuk buat up nya 🗿
