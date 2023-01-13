@@ -5,6 +5,10 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=SkylarKaf&color=blue&label=Views" />
  </p>
+<p align="center">
+CREDIT JAN DI HAPUS!
+<br/>
+SC INI JAN DI JUAL BELIIN NAK JB KON
 </p>
 </div>
 
@@ -19,13 +23,12 @@
 -   [x] Anti Pasaran!
 
 # Baca Ini!
-
 - Change Owner: [Config](https://github.com/SkylarKaf/elaina-md/blob/config.js)
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6281312960392?text=Bang+req+fitur) 
+[`Creator Here`](https://wa.me/6282331660134?text=Bang+req+fitur) 
 
 ## Instalasi
 
