@@ -108,14 +108,15 @@ npm install
 yarn install
 # start and scan
 npm start
+```
 
 # Thanks To
 
--   [`RzkyFdlh`](https://github.com/Rizky878)
--   [`Zynfinity`](https://github.com/Zynfinity)
--   [`AmirulDev20`](https://github.com/amiruldev20)
--   [`SkylarKaf`](https://github.com/SkylarKaf)
--   [`xzeraaID`](https://github.com/xzeera-id)
--   [`Alya`](https://github.com/alya-tok)
+-    [`RzkyFdlh`](https://github.com/Rizky878)
+-    [`Zynfinity`](https://github.com/Zynfinity)
+-    [`AmirulDev20`](https://github.com/amiruldev20)
+-    [`SkylarKaf`](https://github.com/SkylarKaf)
+-    [`xzeraaID`](https://github.com/xzeera-id)
+-    [`Alya`](https://github.com/alya-tok)
 
 
