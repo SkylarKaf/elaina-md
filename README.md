@@ -112,11 +112,10 @@ npm start
 # Thanks To
 
 -   [`RzkyFdlh`](https://github.com/Rizky878)
--   [`Zynfinity`](https://)
+-   [`Zynfinity`](https://github.com/Zynfinity)
 -   [`AmirulDev20`](https://github.com/amiruldev20)
--   [`SkylarKaf`](https://)
--   [`AhmadLui`](https://)
--   [`KenzID`](https://)
--   [`Alya`](https://)
+-   [`SkylarKaf`](https://github.com/SkylarKaf)
+-   [`xzeraaID`](https://github.com/xzeera-id)
+-   [`Alya`](https://github.com/alya-tok)
 
 
