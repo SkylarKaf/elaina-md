@@ -17,9 +17,9 @@ SC INI JAN DI JUAL BELIIN NAK JB KON
 -   [x] Simple Penggunaan
 -   [x] Mudah digunakan
 -   [x] Mudah untuk dirawat/diperbaiki
+-   [x] Support jadibot
 -   [x] Ringan
 -   [x] Anti delay
--   [x] Anti mati
 -   [x] Anti Pasaran!
 
 # Baca Ini!
