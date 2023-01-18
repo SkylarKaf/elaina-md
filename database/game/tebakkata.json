@@ -1,0 +1,2120 @@
+[
+  {
+    "index": 0,
+    "soal": "O-D-T-R-E-K",
+    "clue": "Profesi",
+    "jawaban": "DOKTER"
+  },
+  {
+    "index": 1,
+    "soal": "L-I-M-B-O",
+    "clue": "Benda",
+    "jawaban": "MOBIL"
+  },
+  {
+    "index": 2,
+    "soal": "A-K-H-I-M",
+    "clue": "Profesi",
+    "jawaban": "HAKIM"
+  },
+  {
+    "index": 3,
+    "soal": "T-R-A-G-I",
+    "clue": "Benda",
+    "jawaban": "GITAR"
+  },
+  {
+    "index": 4,
+    "soal": "A-P-S-U-I",
+    "clue": "Benda",
+    "jawaban": "PISAU"
+  },
+  {
+    "index": 5,
+    "soal": "A-P-I-P",
+    "clue": "Benda",
+    "jawaban": "PIPA"
+  },
+  {
+    "index": 6,
+    "soal": "M-A-Y-A",
+    "clue": "Hewan",
+    "jawaban": "AYAM"
+  },
+  {
+    "index": 7,
+    "soal": "A-K-P-L-E-A",
+    "clue": "Benda",
+    "jawaban": "KEPALA"
+  },
+  {
+    "index": 8,
+    "soal": "E-O-N-K-A-R-Y",
+    "clue": "Benda",
+    "jawaban": "KERAYON"
+  },
+  {
+    "index": 9,
+    "soal": "G-U-N-A",
+    "clue": "Benda",
+    "jawaban": "UANG"
+  },
+  {
+    "index": 10,
+    "soal": "D-A-K-U",
+    "clue": "Hewan",
+    "jawaban": "KUDA"
+  },
+  {
+    "index": 11,
+    "soal": "A-T-D-O-N",
+    "clue": "Makanan",
+    "jawaban": "DONAT"
+  },
+  {
+    "index": 12,
+    "soal": "E-P-I-C",
+    "clue": "Benda",
+    "jawaban": "PECI"
+  },
+  {
+    "index": 13,
+    "soal": "G-N-U-L-A-M-P",
+    "clue": "Kota",
+    "jawaban": "LAMPUNG"
+  },
+  {
+    "index": 14,
+    "soal": "B-U-N-R-A-K-U",
+    "clue": "Tempat",
+    "jawaban": "KUBURAN"
+  },
+  {
+    "index": 15,
+    "soal": "S-A-M-U-K",
+    "clue": "Benda",
+    "jawaban": "KAMUS"
+  },
+  {
+    "index": 16,
+    "soal": "B-A-R-D-E-E-N",
+    "clue": "Benda",
+    "jawaban": "BENDERA"
+  },
+  {
+    "index": 17,
+    "soal": "A-N-I-P-O",
+    "clue": "Benda",
+    "jawaban": "PIANO"
+  },
+  {
+    "index": 18,
+    "soal": "A-B-R-A-N-T-U-M",
+    "clue": "Buah",
+    "jawaban": "RAMBUTAN"
+  },
+  {
+    "index": 19,
+    "soal": "A-N-G-E-R-U-B",
+    "clue": "Hewan",
+    "jawaban": "BERUANG"
+  },
+  {
+    "index": 20,
+    "soal": "J-A-M-E",
+    "clue": "Benda",
+    "jawaban": "MEJA"
+  },
+  {
+    "index": 21,
+    "soal": "B-U-R-N-G-U",
+    "clue": "Hewan",
+    "jawaban": "BURUNG"
+  },
+  {
+    "index": 22,
+    "soal": "B-E-N-G-N-A-T",
+    "clue": "Hewan",
+    "jawaban": "BANTENG"
+  },
+  {
+    "index": 23,
+    "soal": "A-N-S-A-N",
+    "clue": "Buah",
+    "jawaban": "NANAS"
+  },
+  {
+    "index": 24,
+    "soal": "A-I-R-D-U-N",
+    "clue": "Buah",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 25,
+    "soal": "K-A-I-N",
+    "clue": "Hewan",
+    "jawaban": "IKAN"
+  },
+  {
+    "index": 26,
+    "soal": "I-N-P-U-T",
+    "clue": "Benda",
+    "jawaban": "PINTU"
+  },
+  {
+    "index": 27,
+    "soal": "A-N-U-M-K-Y",
+    "clue": "Hewan",
+    "jawaban": "NYAMUK"
+  },
+  {
+    "index": 28,
+    "soal": "A-D-L-A-N-S",
+    "clue": "Benda",
+    "jawaban": "SANDAL"
+  },
+  {
+    "index": 29,
+    "soal": "A-K-E-B-U-R",
+    "clue": "Hewan",
+    "jawaban": "KERBAU"
+  },
+  {
+    "index": 30,
+    "soal": "S-T-R-E-A-K",
+    "clue": "Benda",
+    "jawaban": "KERTAS"
+  },
+  {
+    "index": 31,
+    "soal": "G-E-N-P-O-T",
+    "clue": "Benda",
+    "jawaban": "TOPENG"
+  },
+  {
+    "index": 32,
+    "soal": "A-S-B-U-N",
+    "clue": "Benda",
+    "jawaban": "SABUN"
+  },
+  {
+    "index": 33,
+    "soal": "A-U-N-T",
+    "clue": "Hewan",
+    "jawaban": "UNTA"
+  },
+  {
+    "index": 34,
+    "soal": "I-L-N-I-L",
+    "clue": "Benda",
+    "jawaban": "LILIN"
+  },
+  {
+    "index": 35,
+    "soal": "M-A-J",
+    "clue": "Benda",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 36,
+    "soal": "A-K-U-P",
+    "clue": "Benda",
+    "jawaban": "PAKU"
+  },
+  {
+    "index": 37,
+    "soal": "A-P-I-N-G-S",
+    "clue": "Buah",
+    "jawaban": "PISANG"
+  },
+  {
+    "index": 38,
+    "soal": "A-T-S",
+    "clue": "Benda",
+    "jawaban": "TAS"
+  },
+  {
+    "index": 39,
+    "soal": "I-R-K-U-S",
+    "clue": "Benda",
+    "jawaban": "KURSI"
+  },
+  {
+    "index": 40,
+    "soal": "I-P-S-A",
+    "clue": "Hewan",
+    "jawaban": "SAPI"
+  },
+  {
+    "index": 41,
+    "soal": "B-A-N-G-K-I-M",
+    "clue": "Hewan",
+    "jawaban": "KAMBING"
+  },
+  {
+    "index": 42,
+    "soal": "R-A-U-L",
+    "clue": "Hewan",
+    "jawaban": "ULAR"
+  },
+  {
+    "index": 43,
+    "soal": "A-L-B-T-A-N",
+    "clue": "Benda",
+    "jawaban": "BANTAL"
+  },
+  {
+    "index": 44,
+    "soal": "E-L-M-I-R-A",
+    "clue": "Benda",
+    "jawaban": "LEMARI"
+  },
+  {
+    "index": 45,
+    "soal": "S-U-I-T",
+    "clue": "Benda",
+    "jawaban": "TISU"
+  },
+  {
+    "index": 46,
+    "soal": "G-I-N-R-I-P",
+    "clue": "Benda",
+    "jawaban": "PIRING"
+  },
+  {
+    "index": 47,
+    "soal": "A-L-B-I",
+    "clue": "Tempat",
+    "jawaban": "BALI"
+  },
+  {
+    "index": 48,
+    "soal": "S-P-I-N-E-L",
+    "clue": "Benda",
+    "jawaban": "PENSIL"
+  },
+  {
+    "index": 49,
+    "soal": "T-U-B-A",
+    "clue": "Benda",
+    "jawaban": "BATU"
+  },
+  {
+    "index": 50,
+    "soal": "A-T-A-B",
+    "clue": "Benda",
+    "jawaban": "BATA"
+  },
+  {
+    "index": 51,
+    "soal": "A-P-U-S",
+    "clue": "Benda",
+    "jawaban": "SAPU"
+  },
+  {
+    "index": 52,
+    "soal": "B-R-O-G-O",
+    "clue": "Kota",
+    "jawaban": "BOGOR"
+  },
+  {
+    "index": 53,
+    "soal": "A-N-I-S-U-L-K",
+    "clue": "Benda",
+    "jawaban": "LUKISAN"
+  },
+  {
+    "index": 54,
+    "soal": "K-U-S-A-L-K",
+    "clue": "Benda",
+    "jawaban": "KULKAS"
+  },
+  {
+    "index": 55,
+    "soal": "A-K-D-A-B",
+    "clue": "Hewan",
+    "jawaban": "BADAK"
+  },
+  {
+    "index": 56,
+    "soal": "A-H-J-A-G",
+    "clue": "Hewan",
+    "jawaban": "GAJAH"
+  },
+  {
+    "index": 57,
+    "soal": "A-N-Y-P-U-G",
+    "clue": "Benda",
+    "jawaban": "PAYUNG"
+  },
+  {
+    "index": 58,
+    "soal": "A-D-H-U-N-K",
+    "clue": "Benda",
+    "jawaban": "HANDUK"
+  },
+  {
+    "index": 59,
+    "soal": "A-S-M-A-N-G-E",
+    "clue": "Buah",
+    "jawaban": "SEMANGKA"
+  },
+  {
+    "index": 60,
+    "soal": "A-S-E-T-U-P",
+    "clue": "Benda",
+    "jawaban": "SEPATU"
+  },
+  {
+    "index": 61,
+    "soal": "G-U-R-A-P",
+    "clue": "Benda",
+    "jawaban": "GARPU"
+  },
+  {
+    "index": 62,
+    "soal": "C-U-K-I-N-G",
+    "clue": "Hewan",
+    "jawaban": "KUCING"
+  },
+  {
+    "index": 63,
+    "soal": "B-A-M-O-D",
+    "clue": "Hewan",
+    "jawaban": "DOMBA"
+  },
+  {
+    "index": 64,
+    "soal": "T-H-O-L-E",
+    "clue": "Tempat",
+    "jawaban": "HOTEL"
+  },
+  {
+    "index": 65,
+    "soal": "H-E-A-P-J-A-R",
+    "clue": "Hewan",
+    "jawaban": "JERAPAH"
+  },
+  {
+    "index": 66,
+    "soal": "L-A-T-H-E",
+    "clue": "Tempat",
+    "jawaban": "HALTE"
+  },
+  {
+    "index": 67,
+    "soal": "E-R-I-C-M-N",
+    "clue": "Benda",
+    "jawaban": "CERMIN"
+  },
+  {
+    "index": 68,
+    "soal": "M-O-P-E-T-U-R-K",
+    "clue": "Benda",
+    "jawaban": "KOMPUTER"
+  },
+  {
+    "index": 69,
+    "soal": "M-E-T-R-O-S",
+    "clue": "Benda",
+    "jawaban": "TERMOS"
+  },
+  {
+    "index": 70,
+    "soal": "A-C-L-E-A-N",
+    "clue": "Benda",
+    "jawaban": "CELANA"
+  },
+  {
+    "index": 71,
+    "soal": "A-I-R-I-T",
+    "clue": "Benda",
+    "jawaban": "TIRAI"
+  },
+  {
+    "index": 72,
+    "soal": "A-N-D-R-A-B-A",
+    "clue": "Tempat",
+    "jawaban": "BANDARA"
+  },
+  {
+    "index": 73,
+    "soal": "S-U-U-S",
+    "clue": "Organ",
+    "jawaban": "USUS"
+  },
+  {
+    "index": 74,
+    "soal": "A-G-E-N-T-N-B",
+    "clue": "Hewan",
+    "jawaban": "BANTENG"
+  },
+  {
+    "index": 75,
+    "soal": "A-K-A-D-B",
+    "clue": "Hewan",
+    "jawaban": "BADAK"
+  },
+  {
+    "index": 76,
+    "soal": "E-M-N-O-L",
+    "clue": "Buah",
+    "jawaban": "LEMON"
+  },
+  {
+    "index": 77,
+    "soal": "D-A-N-N-A-K-G",
+    "clue": "Tempat",
+    "jawaban": "KANDANG"
+  },
+  {
+    "index": 78,
+    "soal": "A-P-S-I-N-G",
+    "clue": "Buah",
+    "jawaban": "PISANG"
+  },
+  {
+    "index": 79,
+    "soal": "L-I-S-E-T-T-A",
+    "clue": "Benda",
+    "jawaban": "SATELIT"
+  },
+  {
+    "index": 80,
+    "soal": "A-K-E-B-C",
+    "clue": "Benda",
+    "jawaban": "BECAK"
+  },
+  {
+    "index": 81,
+    "soal": "A-N-A-B-U-G",
+    "clue": "Hewan",
+    "jawaban": "BANGAU"
+  },
+  {
+    "index": 82,
+    "soal": "A-N-B-U-G",
+    "clue": "Tumbuhan",
+    "jawaban": "BUNGA"
+  },
+  {
+    "index": 83,
+    "soal": "I-P-T-U-N",
+    "clue": "Benda",
+    "jawaban": "PINTU"
+  },
+  {
+    "index": 84,
+    "soal": "I-P-K-O",
+    "clue": "Benda",
+    "jawaban": "KOPI"
+  },
+  {
+    "index": 85,
+    "soal": "A-K-R-U-B-E",
+    "clue": "Hewan",
+    "jawaban": "KERBAU"
+  },
+  {
+    "index": 86,
+    "soal": "D-I-N-G-U-H",
+    "clue": "Bagian Tubuh",
+    "jawaban": "HIDUNG"
+  },
+  {
+    "index": 87,
+    "soal": "L-I-P-T-O",
+    "clue": "Pekerjaan",
+    "jawaban": "PILOT"
+  },
+  {
+    "index": 88,
+    "soal": "A-C-L-E-A-N",
+    "clue": "Benda",
+    "jawaban": "CELANA"
+  },
+  {
+    "index": 89,
+    "soal": "H-A-N-A-L-A-M",
+    "clue": "BENDA",
+    "jawaban": "HALAMAN"
+  },
+  {
+    "index": 90,
+    "soal": "G-A-B-W-A-N",
+    "clue": "Tumbuhan",
+    "jawaban": "BAWANG"
+  },
+  {
+    "index": 91,
+    "soal": "U-C-T-A-R",
+    "clue": "Benda",
+    "jawaban": "CATUR"
+  },
+  {
+    "index": 92,
+    "soal": "M-R-T-O-O",
+    "clue": "Benda",
+    "jawaban": "MOTOR"
+  },
+  {
+    "index": 93,
+    "soal": "L-E-A-K-S",
+    "clue": "Tempat",
+    "jawaban": "KELAS"
+  },
+  {
+    "index": 94,
+    "soal": "A-K-E-H-O-L-S",
+    "clue": "Tempat",
+    "jawaban": "SEKOLAH"
+  },
+  {
+    "index": 95,
+    "soal": "J-I-G-N-A-N",
+    "clue": "Hewan",
+    "jawaban": "ANJING"
+  },
+  {
+    "index": 96,
+    "soal": "S-A-B-E-R",
+    "clue": "Benda",
+    "jawaban": "BERAS"
+  },
+  {
+    "index": 97,
+    "soal": "M-U-T-E-S",
+    "clue": "Hewan",
+    "jawaban": "SEMUT"
+  },
+  {
+    "index": 98,
+    "soal": "D-A-K-U-H-N",
+    "clue": "Benda",
+    "jawaban": "HANDUK"
+  },
+  {
+    "index": 99,
+    "soal": "A-L-E-N-E-D-J",
+    "clue": "Benda",
+    "jawaban": "JENDELA"
+  },
+  {
+    "index": 100,
+    "soal": "A-U-G-I-N-S",
+    "clue": "Tempat",
+    "jawaban": "SUNGAI"
+  },
+  {
+    "index": 101,
+    "soal": "A-K-P-E-A-L",
+    "clue": "Buah",
+    "jawaban": "KELAPA"
+  },
+  {
+    "index": 102,
+    "soal": "G-L-U-O-N-N-B",
+    "clue": "Hewan",
+    "jawaban": "BUNGLON"
+  },
+  {
+    "index": 103,
+    "soal": "A-A-R-C",
+    "clue": "Makanan",
+    "jawaban": "ACAR"
+  },
+  {
+    "index": 104,
+    "soal": "E-L-H-A-T",
+    "clue": "Tempst",
+    "jawaban": "HALTE"
+  },
+  {
+    "index": 105,
+    "soal": "A-H-A-W-S",
+    "clue": "Tempat",
+    "jawaban": "SAWAH"
+  },
+  {
+    "index": 106,
+    "soal": "D-A-R-A-B-A-N",
+    "clue": "Tempat",
+    "jawaban": "BANDARA"
+  },
+  {
+    "index": 107,
+    "soal": "U-H-I",
+    "clue": "Hewan",
+    "jawaban": "HIU"
+  },
+  {
+    "index": 108,
+    "soal": "L-O-K",
+    "clue": "Sayuran",
+    "jawaban": "KOL"
+  },
+  {
+    "index": 109,
+    "soal": "N-A-B",
+    "clue": "Benda",
+    "jawaban": "BAN"
+  },
+  {
+    "index": 110,
+    "soal": "B-R-O",
+    "clue": "Benda",
+    "jawaban": "BOR"
+  },
+  {
+    "index": 111,
+    "soal": "E-R-P",
+    "clue": "Benda",
+    "jawaban": "PER"
+  },
+  {
+    "index": 112,
+    "soal": "A-U-J-B",
+    "clue": "Tempat",
+    "jawaban": "BAJU"
+  },
+  {
+    "index": 113,
+    "soal": "P-E-A-L",
+    "clue": "Buah",
+    "jawaban": "APEL"
+  },
+  {
+    "index": 114,
+    "soal": "K-U-B-U",
+    "clue": "Benda",
+    "jawaban": "BUKU"
+  },
+  {
+    "index": 115,
+    "soal": "B-A-L-O",
+    "clue": "Benda",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 116,
+    "soal": "A-C-B-E",
+    "clue": "Sayuran",
+    "jawaban": "CABE"
+  },
+  {
+    "index": 117,
+    "soal": "F-I-R-E",
+    "clue": "Benda",
+    "jawaban": "FERI"
+  },
+  {
+    "index": 118,
+    "soal": "R-U-I-N",
+    "clue": "Hewan",
+    "jawaban": "NURI"
+  },
+  {
+    "index": 119,
+    "soal": "Y-O-O-Y",
+    "clue": "Benda",
+    "jawaban": "YOYO"
+  },
+  {
+    "index": 120,
+    "soal": "F-A-S-O",
+    "clue": "Benda",
+    "jawaban": "SOFA"
+  },
+  {
+    "index": 121,
+    "soal": "I-L-T-A",
+    "clue": "Benda",
+    "jawaban": "TALI"
+  },
+  {
+    "index": 122,
+    "soal": "S-U-R-A",
+    "clue": "Hewan",
+    "jawaban": "RUSA"
+  },
+  {
+    "index": 123,
+    "soal": "P-A-U-L",
+    "clue": "Benda",
+    "jawaban": "PALU"
+  },
+  {
+    "index": 124,
+    "soal": "E-L-E-L",
+    "clue": "Hewan",
+    "jawaban": "LELE"
+  },
+  {
+    "index": 125,
+    "soal": "P-I-T-O",
+    "clue": "Benda",
+    "jawaban": "TOPI"
+  },
+  {
+    "index": 126,
+    "soal": "A-B-U-L",
+    "clue": "Sayuran",
+    "jawaban": "LABU"
+  },
+  {
+    "index": 127,
+    "soal": "A-Y-U-K",
+    "clue": "Benda",
+    "jawaban": "KAYU"
+  },
+  {
+    "index": 128,
+    "soal": "L-I-C-E",
+    "clue": "Buah",
+    "jawaban": "LECI"
+  },
+  {
+    "index": 129,
+    "soal": "L-A-J-A",
+    "clue": "Benda",
+    "jawaban": "JALA"
+  },
+  {
+    "index": 130,
+    "soal": "S-A-U-K",
+    "clue": "Benda",
+    "jawaban": "KUAS"
+  },
+  {
+    "index": 131,
+    "soal": "D-I-A-S",
+    "clue": "Benda",
+    "jawaban": "DASI"
+  },
+  {
+    "index": 132,
+    "soal": "L-A-U-T",
+    "clue": "Hewan",
+    "jawaban": "ULAT"
+  },
+  {
+    "index": 133,
+    "soal": "G-A-N-T",
+    "clue": "Benda",
+    "jawaban": "TANG"
+  },
+  {
+    "index": 134,
+    "soal": "A-P-U-S",
+    "clue": "Hewan",
+    "jawaban": "PAUS"
+  },
+  {
+    "index": 135,
+    "soal": "U-U-Y-Y",
+    "clue": "Hewan",
+    "jawaban": "YUYU"
+  },
+  {
+    "index": 136,
+    "soal": "A-W-I-S",
+    "clue": "Sayuran",
+    "jawaban": "SAWI"
+  },
+  {
+    "index": 137,
+    "soal": "E-T-G-O",
+    "clue": "Sayuran",
+    "jawaban": "TOGE"
+  },
+  {
+    "index": 138,
+    "soal": "A-S-O-W",
+    "clue": "Buah",
+    "jawaban": "SAWO"
+  },
+  {
+    "index": 139,
+    "soal": "R-I-C-E",
+    "clue": "Buah",
+    "jawaban": "CERI"
+  },
+  {
+    "index": 140,
+    "soal": "I-K-A-L",
+    "clue": "Benda",
+    "jawaban": "KAIL"
+  },
+  {
+    "index": 141,
+    "soal": "A-R-E-P",
+    "clue": "Sayuran",
+    "jawaban": "PARE"
+  },
+  {
+    "index": 142,
+    "soal": "D-A-R-O",
+    "clue": "Benda",
+    "jawaban": "RODA"
+  },
+  {
+    "index": 143,
+    "soal": "L-E-M-H",
+    "clue": "Benda",
+    "jawaban": "HELM"
+  },
+  {
+    "index": 144,
+    "soal": "P-A-L-E",
+    "clue": "Buah",
+    "jawaban": "APEL"
+  },
+  {
+    "index": 145,
+    "soal": "R-U-M-D",
+    "clue": "Benda",
+    "jawaban": "DRUM"
+  },
+  {
+    "index": 146,
+    "soal": "A-R-E-K",
+    "clue": "Hewan",
+    "jawaban": "KERA"
+  },
+  {
+    "index": 147,
+    "soal": "K-A-N-T",
+    "clue": "Benda",
+    "jawaban": "TANK"
+  },
+  {
+    "index": 148,
+    "soal": "U-R-U-G",
+    "clue": "Pekerjaan",
+    "jawaban": "GURU"
+  },
+  {
+    "index": 149,
+    "soal": "K-O-I-K",
+    "clue": "Pekerjaan",
+    "jawaban": "KOKI"
+  },
+  {
+    "index": 150,
+    "soal": "A-M-P-U-L",
+    "clue": "Benda",
+    "jawaban": "LAMPU"
+  },
+  {
+    "index": 151,
+    "soal": "J-R-U-K-E",
+    "clue": "Buah",
+    "jawaban": "JERUK"
+  },
+  {
+    "index": 152,
+    "soal": "G-A-L-E-N",
+    "clue": "Hewan",
+    "jawaban": "ELANG"
+  },
+  {
+    "index": 153,
+    "soal": "B-E-R-E-M",
+    "clue": "Benda",
+    "jawaban": "EMBER"
+  },
+  {
+    "index": 154,
+    "soal": "B-E-G-O-N",
+    "clue": "Benda",
+    "jawaban": "OBENG"
+  },
+  {
+    "index": 155,
+    "soal": "A-A-L-I-P",
+    "clue": "Benda",
+    "jawaban": "PIALA"
+  },
+  {
+    "index": 156,
+    "soal": "H-A-R-U-M",
+    "clue": "Benda",
+    "jawaban": "RUMAH"
+  },
+  {
+    "index": 157,
+    "soal": "G-A-I-N-S",
+    "clue": "Hewan",
+    "jawaban": "SINGA"
+  },
+  {
+    "index": 158,
+    "soal": "K-U-S-I-T",
+    "clue": "Hewan",
+    "jawaban": "TIKUS"
+  },
+  {
+    "index": 159,
+    "soal": "J-A-W-N-A",
+    "clue": "Benda",
+    "jawaban": "WAJAN"
+  },
+  {
+    "index": 160,
+    "soal": "B-R-A-Z-E",
+    "clue": "Hewan",
+    "jawaban": "ZEBRA"
+  },
+  {
+    "index": 161,
+    "soal": "L-I-T-O-R",
+    "clue": "Benda",
+    "jawaban": "TROLI"
+  },
+  {
+    "index": 162,
+    "soal": "A-C-M-A-N",
+    "clue": "Hewan",
+    "jawaban": "MACAN"
+  },
+  {
+    "index": 163,
+    "soal": "M-I-N-U-T",
+    "clue": "Sayuran",
+    "jawaban": "TIMUN"
+  },
+  {
+    "index": 164,
+    "soal": "B-A-N-O-L",
+    "clue": "Benda",
+    "jawaban": "BALON"
+  },
+  {
+    "index": 165,
+    "soal": "P-A-N-I-C",
+    "clue": "Benda",
+    "jawaban": "PANCI"
+  },
+  {
+    "index": 166,
+    "soal": "C-U-I-N-K",
+    "clue": "Benda",
+    "jawaban": "KUNCI"
+  },
+  {
+    "index": 167,
+    "soal": "A-P-A-N-D",
+    "clue": "Hewan",
+    "jawaban": "PANDA"
+  },
+  {
+    "index": 168,
+    "soal": "A-D-N-E-T",
+    "clue": "Benda",
+    "jawaban": "TENDA"
+  },
+  {
+    "index": 169,
+    "soal": "N-O-B-I-S",
+    "clue": "Hewan",
+    "jawaban": "BISON"
+  },
+  {
+    "index": 170,
+    "soal": "E-L-M-O-N",
+    "clue": "Buah",
+    "jawaban": "MELON"
+  },
+  {
+    "index": 171,
+    "soal": "A-T-R-I-P",
+    "clue": "Hewan",
+    "jawaban": "TAPIR"
+  },
+  {
+    "index": 172,
+    "soal": "S-I-R-S-I",
+    "clue": "Benda",
+    "jawaban": "SISIR"
+  },
+  {
+    "index": 173,
+    "soal": "R-U-S-A-K",
+    "clue": "Benda",
+    "jawaban": "KASUR"
+  },
+  {
+    "index": 174,
+    "soal": "P-O-K-E-R",
+    "clue": "Benda",
+    "jawaban": "KOPER"
+  },
+  {
+    "index": 175,
+    "soal": "A-L-E-G-S",
+    "clue": "Benda",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 176,
+    "soal": "A-D-G-U-N",
+    "clue": "Hewan",
+    "jawaban": "UDANG"
+  },
+  {
+    "index": 177,
+    "soal": "S-P-I-N-O",
+    "clue": "Benda",
+    "jawaban": "SPION"
+  },
+  {
+    "index": 178,
+    "soal": "A-T-A-L-L",
+    "clue": "Hewan",
+    "jawaban": "LALAT"
+  },
+  {
+    "index": 179,
+    "soal": "J-A-B-M-U",
+    "clue": "Buah",
+    "jawaban": "JAMBU"
+  },
+  {
+    "index": 180,
+    "soal": "A-P-O-M-P",
+    "clue": "Benda",
+    "jawaban": "POMPA"
+  },
+  {
+    "index": 181,
+    "soal": "A-M-U-J-R",
+    "clue": "Benda",
+    "jawaban": "JARUM"
+  },
+  {
+    "index": 182,
+    "soal": "S-K-E-E-T",
+    "clue": "Benda",
+    "jawaban": "KESET"
+  },
+  {
+    "index": 183,
+    "soal": "A-U-B-A-Y",
+    "clue": "Hewan",
+    "jawaban": "BUAYA"
+  },
+  {
+    "index": 184,
+    "soal": "I-T-A-S-K",
+    "clue": "Benda",
+    "jawaban": "SIKAT"
+  },
+  {
+    "index": 185,
+    "soal": "M-O-T-A-T",
+    "clue": "Buah",
+    "jawaban": "TOMAT"
+  },
+  {
+    "index": 186,
+    "soal": "K-E-R-T-O",
+    "clue": "Benda",
+    "jawaban": "ROKET"
+  },
+  {
+    "index": 187,
+    "soal": "T-A-K-E-R",
+    "clue": "Benda",
+    "jawaban": "RAKET"
+  },
+  {
+    "index": 188,
+    "soal": "M-E-T-R-O",
+    "clue": "Benda",
+    "jawaban": "REMOT"
+  },
+  {
+    "index": 189,
+    "soal": "B-E-L-A-H",
+    "clue": "Hewan",
+    "jawaban": "LEBAH"
+  },
+  {
+    "index": 190,
+    "soal": "C-I-A-K-C",
+    "clue": "Hewan",
+    "jawaban": "CICAK"
+  },
+  {
+    "index": 191,
+    "soal": "A-K-G-A-G",
+    "clue": "Hewan",
+    "jawaban": "GAGAK"
+  },
+  {
+    "index": 192,
+    "soal": "L-A-S-K-A",
+    "clue": "Buah",
+    "jawaban": "SALAK"
+  },
+  {
+    "index": 193,
+    "soal": "B-A-S-K-A",
+    "clue": "Benda",
+    "jawaban": "ASBAK"
+  },
+  {
+    "index": 194,
+    "soal": "L-O-B-T-O",
+    "clue": "Benda",
+    "jawaban": "BOTOL"
+  },
+  {
+    "index": 195,
+    "soal": "G-A-B-O-N",
+    "clue": "Hewan",
+    "jawaban": "BANGO"
+  },
+  {
+    "index": 196,
+    "soal": "C-O-K-E-A",
+    "clue": "Hewan",
+    "jawaban": "KECOA"
+  },
+  {
+    "index": 197,
+    "soal": "P-U-T-I-A",
+    "clue": "Hewan",
+    "jawaban": "TUPAI"
+  },
+  {
+    "index": 198,
+    "soal": "B-A-O-I-L",
+    "clue": "Benda",
+    "jawaban": "BIOLA"
+  },
+  {
+    "index": 199,
+    "soal": "A-K-A-L-O",
+    "clue": "Hewan",
+    "jawaban": "KOALA"
+  },
+  {
+    "index": 200,
+    "soal": "S-I-B-U-K",
+    "clue": "Sayuran",
+    "jawaban": "KUBIS"
+  },
+  {
+    "index": 201,
+    "soal": "A-B-A-M-Y",
+    "clue": "Sayuran",
+    "jawaban": "BAYAM"
+  },
+  {
+    "index": 202,
+    "soal": "M-U-R-A-J",
+    "clue": "Sayuran",
+    "jawaban": "JAMUR"
+  },
+  {
+    "index": 203,
+    "soal": "L-I-U-K-A",
+    "clue": "Benda",
+    "jawaban": "KUALI"
+  },
+  {
+    "index": 204,
+    "soal": "S-A-G-A-N",
+    "clue": "Hewan",
+    "jawaban": "ANGSA"
+  },
+  {
+    "index": 205,
+    "soal": "N-A-B-O-D",
+    "clue": "Benda",
+    "jawaban": "BANDO"
+  },
+  {
+    "index": 206,
+    "soal": "S-T-A-K-E",
+    "clue": "Benda",
+    "jawaban": "KASET"
+  },
+  {
+    "index": 207,
+    "soal": "G-A-P-A-R",
+    "clue": "Benda",
+    "jawaban": "PAGAR"
+  },
+  {
+    "index": 208,
+    "soal": "K-U-R-A-N",
+    "clue": "Hewan",
+    "jawaban": "RAKUN"
+  },
+  {
+    "index": 209,
+    "soal": "B-L-A-K-E",
+    "clue": "Benda",
+    "jawaban": "KABEL"
+  },
+  {
+    "index": 210,
+    "soal": "B-R-O-T-O",
+    "clue": "Benda",
+    "jawaban": "ROBOT"
+  },
+  {
+    "index": 211,
+    "soal": "G-A-E-L-S",
+    "clue": "Benda",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 212,
+    "soal": "P-I-S-K-A",
+    "clue": "Benda",
+    "jawaban": "KIPAS"
+  },
+  {
+    "index": 213,
+    "soal": "K-E-R-O-K",
+    "clue": "Benda",
+    "jawaban": "KOREK"
+  },
+  {
+    "index": 214,
+    "soal": "A-L-O-N-G",
+    "clue": "Benda",
+    "jawaban": "GALON"
+  },
+  {
+    "index": 215,
+    "soal": "A-C-I-N-D",
+    "clue": "Benda",
+    "jawaban": "CANDI"
+  },
+  {
+    "index": 216,
+    "soal": "E-N-Y-U-P",
+    "clue": "Hewan",
+    "jawaban": "PENYU"
+  },
+  {
+    "index": 217,
+    "soal": "A-P-I-O-N",
+    "clue": "Benda",
+    "jawaban": "PIANO"
+  },
+  {
+    "index": 218,
+    "soal": "R-U-R-I-K",
+    "clue": "Pekerjaan",
+    "jawaban": "KURIR"
+  },
+  {
+    "index": 219,
+    "soal": "P-U-S-R-I",
+    "clue": "Pekerjaan",
+    "jawaban": "SUPIR"
+  },
+  {
+    "index": 220,
+    "soal": "A-K-R-I-S",
+    "clue": "Pekerjaan",
+    "jawaban": "KASIR"
+  },
+  {
+    "index": 221,
+    "soal": "L-A-T-T-E",
+    "clue": "Profesi",
+    "jawaban": "ATLET"
+  },
+  {
+    "index": 222,
+    "soal": "P-I-K-E-R",
+    "clue": "Profesi",
+    "jawaban": "KIPER"
+  },
+  {
+    "index": 223,
+    "soal": "W-A-I-T-S",
+    "clue": "Profesi",
+    "jawaban": "WASIT"
+  },
+  {
+    "index": 224,
+    "soal": "B-I-B-A-T",
+    "clue": "Pekerjaan",
+    "jawaban": "TABIB"
+  },
+  {
+    "index": 225,
+    "soal": "R-I-K-U-S",
+    "clue": "Pekerjaan",
+    "jawaban": "KUSIR"
+  },
+  {
+    "index": 226,
+    "soal": "H-A-N-T-U",
+    "clue": "Tempat",
+    "jawaban": "HUTAN"
+  },
+  {
+    "index": 227,
+    "soal": "D-R-A-U-P",
+    "clue": "Tempat",
+    "jawaban": "DAPUR"
+  },
+  {
+    "index": 228,
+    "soal": "M-A-N-T-A",
+    "clue": "Tempat",
+    "jawaban": "TAMAN"
+  },
+  {
+    "index": 229,
+    "soal": "P-A-R-A-S",
+    "clue": "Tempat",
+    "jawaban": "PASAR"
+  },
+  {
+    "index": 230,
+    "soal": "B-A-K-E-O-N",
+    "clue": "Benda",
+    "jawaban": "BONEKA"
+  },
+  {
+    "index": 231,
+    "soal": "J-A-K-E-M-E",
+    "clue": "Benda",
+    "jawaban": "KEMEJA"
+  },
+  {
+    "index": 232,
+    "soal": "G-I-A-N-U-A",
+    "clue": "Hewan",
+    "jawaban": "IGUANA"
+  },
+  {
+    "index": 233,
+    "soal": "H-A-R-E-U-P",
+    "clue": "Benda",
+    "jawaban": "PERAHU"
+  },
+  {
+    "index": 234,
+    "soal": "A-M-A-K-E-R",
+    "clue": "Benda",
+    "jawaban": "KAMERA"
+  },
+  {
+    "index": 235,
+    "soal": "D-A-P-E-S-E",
+    "clue": "Benda",
+    "jawaban": "SEPEDA"
+  },
+  {
+    "index": 236,
+    "soal": "R-E-T-A-K-E",
+    "clue": "Benda",
+    "jawaban": "KERETA"
+  },
+  {
+    "index": 237,
+    "soal": "G-U-I-T-A-R",
+    "clue": "Hewan",
+    "jawaban": "GURITA"
+  },
+  {
+    "index": 238,
+    "soal": "A-P-E-P-A-Y",
+    "clue": "Buah",
+    "jawaban": "PEPAYA"
+  },
+  {
+    "index": 239,
+    "soal": "A-K-L-U-N-G",
+    "clue": "Benda",
+    "jawaban": "KALUNG"
+  },
+  {
+    "index": 240,
+    "soal": "N-A-T-A-N-E",
+    "clue": "Benda",
+    "jawaban": "ANTENA"
+  },
+  {
+    "index": 241,
+    "soal": "G-R-A-N-G-U",
+    "clue": "Buah",
+    "jawaban": "ANGGUR"
+  },
+  {
+    "index": 242,
+    "soal": "C-R-A-S-K-I",
+    "clue": "Benda",
+    "jawaban": "KARCIS"
+  },
+  {
+    "index": 243,
+    "soal": "P-E-G-S-E-R",
+    "clue": "Benda",
+    "jawaban": "GESPER"
+  },
+  {
+    "index": 244,
+    "soal": "A-G-N-A-K-C",
+    "clue": "Sayuran",
+    "jawaban": "KACANG"
+  },
+  {
+    "index": 245,
+    "soal": "J-I-G-K-A-N",
+    "clue": "Hewan",
+    "jawaban": "KIJANG"
+  },
+  {
+    "index": 246,
+    "soal": "N-A-G-W-A-G",
+    "clue": "Benda",
+    "jawaban": "GAWANG"
+  },
+  {
+    "index": 247,
+    "soal": "K-O-D-O-M-O",
+    "clue": "Hewan",
+    "jawaban": "KOMODO"
+  },
+  {
+    "index": 248,
+    "soal": "G-L-U-I-N-G",
+    "clue": "Benda",
+    "jawaban": "GULING"
+  },
+  {
+    "index": 249,
+    "soal": "A-N-G-Y-G-U",
+    "clue": "Benda",
+    "jawaban": "GAYUNG"
+  },
+  {
+    "index": 250,
+    "soal": "G-E-R-N-O-T",
+    "clue": "Sayuran",
+    "jawaban": "TERONG"
+  },
+  {
+    "index": 251,
+    "soal": "N-A-T-I-N-G",
+    "clue": "Benda",
+    "jawaban": "ANTING"
+  },
+  {
+    "index": 252,
+    "soal": "K-R-O-O-M-P",
+    "clue": "Benda",
+    "jawaban": "KOMPOR"
+  },
+  {
+    "index": 253,
+    "soal": "M-U-S-P-I-T",
+    "clue": "Benda",
+    "jawaban": "SUMPIT"
+  },
+  {
+    "index": 254,
+    "soal": "D-E-M-O-P-T",
+    "clue": "Benda",
+    "jawaban": "DOMPET"
+  },
+  {
+    "index": 255,
+    "soal": "A-G-N-I-C-C",
+    "clue": "Hewan",
+    "jawaban": "CACING"
+  },
+  {
+    "index": 256,
+    "soal": "C-U-P-A-N-G",
+    "clue": "Hewan",
+    "jawaban": "CAPUNG"
+  },
+  {
+    "index": 257,
+    "soal": "G-M-K-O-B-E",
+    "clue": "Benda",
+    "jawaban": "GEMBOK"
+  },
+  {
+    "index": 258,
+    "soal": "G-A-N-B-U-K",
+    "clue": "Benda",
+    "jawaban": "BANGKU"
+  },
+  {
+    "index": 259,
+    "soal": "C-C-I-I-N-N",
+    "clue": "Benda",
+    "jawaban": "CINCIN"
+  },
+  {
+    "index": 260,
+    "soal": "D-O-S-K-E-N",
+    "clue": "Benda",
+    "jawaban": "SENDOK"
+  },
+  {
+    "index": 261,
+    "soal": "G-R-O-L-O-B",
+    "clue": "Benda",
+    "jawaban": "BORGOL"
+  },
+  {
+    "index": 262,
+    "soal": "C-A-L-K-I-N",
+    "clue": "Hewan",
+    "jawaban": "KANCIL"
+  },
+  {
+    "index": 263,
+    "soal": "L-O-W-E-R-T",
+    "clue": "Sayuran",
+    "jawaban": "WORTEL"
+  },
+  {
+    "index": 264,
+    "soal": "E-T-O-N-M-Y",
+    "clue": "Hewan",
+    "jawaban": "MONYET"
+  },
+  {
+    "index": 265,
+    "soal": "A-N-I-T-R-A",
+    "clue": "Benda",
+    "jawaban": "RANTAI"
+  },
+  {
+    "index": 266,
+    "soal": "J-U-G-N-A-G",
+    "clue": "Sayuran",
+    "jawaban": "JAGUNG"
+  },
+  {
+    "index": 267,
+    "soal": "A-R-I-P-K-T",
+    "clue": "Hewan",
+    "jawaban": "PARKIT"
+  },
+  {
+    "index": 268,
+    "soal": "G-U-S-M-A-N",
+    "clue": "Hewan",
+    "jawaban": "MUSANG"
+  },
+  {
+    "index": 269,
+    "soal": "A-N-D-A-K-L",
+    "clue": "Hewan",
+    "jawaban": "LANDAK"
+  },
+  {
+    "index": 270,
+    "soal": "B-I-C-N-U-S",
+    "clue": "Sayuran",
+    "jawaban": "BUNCIS"
+  },
+  {
+    "index": 271,
+    "soal": "M-E-D-I-A-L",
+    "clue": "Buah",
+    "jawaban": "DELIMA"
+  },
+  {
+    "index": 272,
+    "soal": "M-A-R-C-I-E",
+    "clue": "Buah",
+    "jawaban": "CERMAI"
+  },
+  {
+    "index": 273,
+    "soal": "G-A-N-G-M-A",
+    "clue": "Buah",
+    "jawaban": "MANGGA"
+  },
+  {
+    "index": 274,
+    "soal": "A-K-B-A-W-I",
+    "clue": "Hewan",
+    "jawaban": "BIAWAK"
+  },
+  {
+    "index": 275,
+    "soal": "C-A-K-E-P-I",
+    "clue": "Benda",
+    "jawaban": "KECAPI"
+  },
+  {
+    "index": 276,
+    "soal": "E-L-G-A-N-G",
+    "clue": "Benda",
+    "jawaban": "GELANG"
+  },
+  {
+    "index": 277,
+    "soal": "A-N-N-A-K-G",
+    "clue": "Buah",
+    "jawaban": "NANGKA"
+  },
+  {
+    "index": 278,
+    "soal": "S-K-A-S-R-I",
+    "clue": "Buah",
+    "jawaban": "SIRSAK"
+  },
+  {
+    "index": 279,
+    "soal": "R-E-S-E-N-T",
+    "clue": "Benda",
+    "jawaban": "SENTER"
+  },
+  {
+    "index": 280,
+    "soal": "P-A-N-G-E-D",
+    "clue": "Benda",
+    "jawaban": "PEDANG"
+  },
+  {
+    "index": 281,
+    "soal": "G-A-T-A-N-G",
+    "clue": "Benda",
+    "jawaban": "TANGGA"
+  },
+  {
+    "index": 282,
+    "soal": "H-E-A-R-U-P",
+    "clue": "Benda",
+    "jawaban": "PERAHU"
+  },
+  {
+    "index": 283,
+    "soal": "A-K-A-K-P-M",
+    "clue": "Benda",
+    "jawaban": "KAMPAK"
+  },
+  {
+    "index": 284,
+    "soal": "I-S-P-O-I-L",
+    "clue": "Profesi",
+    "jawaban": "POLISI"
+  },
+  {
+    "index": 285,
+    "soal": "L-E-T-A-P-U",
+    "clue": "Profesi",
+    "jawaban": "PELAUT"
+  },
+  {
+    "index": 286,
+    "soal": "A-W-L-P-O-N",
+    "clue": "Profesi",
+    "jawaban": "POLWAN"
+  },
+  {
+    "index": 287,
+    "soal": "R-U-S-S-E-T",
+    "clue": "Profesi",
+    "jawaban": "SUSTER"
+  },
+  {
+    "index": 288,
+    "soal": "I-L-K-I-N-K",
+    "clue": "Tempat",
+    "jawaban": "KLINIK"
+  },
+  {
+    "index": 289,
+    "soal": "T-O-P-E-K-A",
+    "clue": "Tempat",
+    "jawaban": "APOTEK"
+  },
+  {
+    "index": 290,
+    "soal": "K-A-R-T-O-N",
+    "clue": "Tempat",
+    "jawaban": "KANTOR"
+  },
+  {
+    "index": 291,
+    "soal": "G-U-N-W-A-R",
+    "clue": "Tempat",
+    "jawaban": "WARUNG"
+  },
+  {
+    "index": 292,
+    "soal": "G-U-N-G-U-N",
+    "clue": "Tempat",
+    "jawaban": "GUNUNG"
+  },
+  {
+    "index": 293,
+    "soal": "B-A-R-K-I-P",
+    "clue": "Tempat",
+    "jawaban": "PABRIK"
+  },
+  {
+    "index": 294,
+    "soal": "I-C-E-L-I-N-K",
+    "clue": "Hewan",
+    "jawaban": "KELINCI"
+  },
+  {
+    "index": 295,
+    "soal": "K-I-R-A-S-E-T",
+    "clue": "Benda",
+    "jawaban": "SETRIKA"
+  },
+  {
+    "index": 296,
+    "soal": "G-A-N-T-K-E-N",
+    "clue": "Sayuran",
+    "jawaban": "KENTANG"
+  },
+  {
+    "index": 297,
+    "soal": "G-I-N-G-U-T-N",
+    "clue": "Benda",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 298,
+    "soal": "G-A-N-G-N-E-D",
+    "clue": "Benda",
+    "jawaban": "GENDANG"
+  },
+  {
+    "index": 299,
+    "soal": "A-H-A-W-S",
+    "clue": "Tempat",
+    "jawaban": "SAWAH"
+  },
+  {
+    "index": 300,
+    "soal": "B-U-N-G-K-A-M",
+    "clue": "Hewan",
+    "jawaban": "KUMBANG"
+  },
+  {
+    "index": 301,
+    "soal": "C-A-N-K-I-N-G",
+    "clue": "Benda",
+    "jawaban": "KANCING"
+  },
+  {
+    "index": 302,
+    "soal": "G-A-S-M-I-N-G",
+    "clue": "Buah",
+    "jawaban": "MANGGIS"
+  },
+  {
+    "index": 303,
+    "soal": "R-A-C-K-I-N-G",
+    "clue": "Benda",
+    "jawaban": "CANGKIR"
+  },
+  {
+    "index": 304,
+    "soal": "G-L-E-N-N-C-O",
+    "clue": "Benda",
+    "jawaban": "LONCENG"
+  },
+  {
+    "index": 305,
+    "soal": "A-S-A-W-E-P-T",
+    "clue": "Benda",
+    "jawaban": "PESAWAT"
+  },
+  {
+    "index": 306,
+    "soal": "B-R-O-K-A-G-E",
+    "clue": "Benda",
+    "jawaban": "GEROBAK"
+  },
+  {
+    "index": 307,
+    "soal": "L-U-C-K-N-A-G",
+    "clue": "Benda",
+    "jawaban": "CANGKUL"
+  },
+  {
+    "index": 308,
+    "soal": "D-E-I-A-L-E-K",
+    "clue": "Hewan",
+    "jawaban": "KELEDAI"
+  },
+  {
+    "index": 309,
+    "soal": "A-L-P-O-M-I-N",
+    "clue": "Benda",
+    "jawaban": "LAMPION"
+  },
+  {
+    "index": 310,
+    "soal": "K-A-R-A-P-I-P",
+    "clue": "Sayuran",
+    "jawaban": "PAPRIKA"
+  },
+  {
+    "index": 311,
+    "soal": "K-O-L-O-R-I-B",
+    "clue": "Sayuran",
+    "jawaban": "BROKOLI"
+  },
+  {
+    "index": 312,
+    "soal": "A-I-A-R-H-U-M",
+    "clue": "Hewan",
+    "jawaban": "HARIMAU"
+  },
+  {
+    "index": 313,
+    "soal": "J-O-I-N-M-E-L",
+    "clue": "Sayuran",
+    "jawaban": "MELINJO"
+  },
+  {
+    "index": 314,
+    "soal": "M-A-R-I-S-K-A",
+    "clue": "Buah",
+    "jawaban": "MARKISA"
+  },
+  {
+    "index": 315,
+    "soal": "J-A-G-K-N-A-R",
+    "clue": "Benda",
+    "jawaban": "JANGKAR"
+  },
+  {
+    "index": 316,
+    "soal": "E-K-E-K-M-S-E",
+    "clue": "Buah",
+    "jawaban": "KESEMEK"
+  },
+  {
+    "index": 317,
+    "soal": "R-I-S-A-Y-A-K",
+    "clue": "Buah",
+    "jawaban": "SRIKAYA"
+  },
+  {
+    "index": 318,
+    "soal": "N-O-M-I-T-O-R",
+    "clue": "Benda",
+    "jawaban": "MONITOR"
+  },
+  {
+    "index": 319,
+    "soal": "G-A-N-K-M-U-K",
+    "clue": "Benda",
+    "jawaban": "MANGKUK"
+  },
+  {
+    "index": 320,
+    "soal": "T-A-N-A-G-E-R",
+    "clue": "Benda",
+    "jawaban": "GERANAT"
+  },
+  {
+    "index": 321,
+    "soal": "A-J-I-G-G-E-R",
+    "clue": "Benda",
+    "jawaban": "GERGAJI"
+  },
+  {
+    "index": 322,
+    "soal": "L-E-A-N-A-N-Y",
+    "clue": "Profesi",
+    "jawaban": "NELAYAN"
+  },
+  {
+    "index": 323,
+    "soal": "L-U-K-E-P-I-S",
+    "clue": "Profesi",
+    "jawaban": "PELUKIS"
+  },
+  {
+    "index": 324,
+    "soal": "S-I-M-I-A-N-S",
+    "clue": "Profesi",
+    "jawaban": "MASINIS"
+  },
+  {
+    "index": 325,
+    "soal": "I-N-K-I-E-S-T",
+    "clue": "Profesi",
+    "jawaban": "TEKNISI"
+  },
+  {
+    "index": 326,
+    "soal": "E-T-A-T-R-A-N",
+    "clue": "Profesi",
+    "jawaban": "TENTARA"
+  },
+  {
+    "index": 327,
+    "soal": "P-E-T-A-W-A-R",
+    "clue": "Profesi",
+    "jawaban": "PERAWAT"
+  },
+  {
+    "index": 328,
+    "soal": "A-L-A-N-Y-E-P",
+    "clue": "Pekerjaan",
+    "jawaban": "PELAYAN"
+  },
+  {
+    "index": 329,
+    "soal": "A-D-A-H-K-O-N",
+    "clue": "Pekerjaan",
+    "jawaban": "NAHKODA"
+  },
+  {
+    "index": 330,
+    "soal": "J-E-N-I-P-U-T",
+    "clue": "Profesi",
+    "jawaban": "PETINJU"
+  },
+  {
+    "index": 331,
+    "soal": "A-D-I-T-N-O-S",
+    "clue": "Tempat",
+    "jawaban": "STADION"
+  },
+  {
+    "index": 332,
+    "soal": "A-K-A-K-A-T-K-U",
+    "clue": "Hewan",
+    "jawaban": "KAKAKTUA"
+  },
+  {
+    "index": 333,
+    "soal": "O-R-B-I-T-E-R-S",
+    "clue": "Buah",
+    "jawaban": "STROBERI"
+  },
+  {
+    "index": 334,
+    "soal": "A-C-T-A-K-A-M-A",
+    "clue": "Benda",
+    "jawaban": "KACAMATA"
+  },
+  {
+    "index": 335,
+    "soal": "L-E-V-I-T-I-E-S",
+    "clue": "Benda",
+    "jawaban": "TELEVISI"
+  },
+  {
+    "index": 336,
+    "soal": "G-U-N-K-K-N-A-G",
+    "clue": "SayuraN",
+    "jawaban": "KANGKUNG"
+  },
+  {
+    "index": 337,
+    "soal": "L-A-B-E-L-N-A-G",
+    "clue": "Hewan",
+    "jawaban": "BELALANG"
+  },
+  {
+    "index": 338,
+    "soal": "A-J-A-W-L-I-A-R",
+    "clue": "Hewan",
+    "jawaban": "RAJAWALI"
+  },
+  {
+    "index": 339,
+    "soal": "G-I-T-I-N-P-E-K",
+    "clue": "Hewan",
+    "jawaban": "KEPITING"
+  },
+  {
+    "index": 340,
+    "soal": "G-R-U-S-L-I-N-E",
+    "clue": "Benda",
+    "jawaban": "SERULING"
+  },
+  {
+    "index": 341,
+    "soal": "N-A-B-T-A-K-E-N",
+    "clue": "Hewan",
+    "jawaban": "BEKANTAN"
+  },
+  {
+    "index": 342,
+    "soal": "C-O-N-G-M-E-E-K",
+    "clue": "Benda",
+    "jawaban": "KEMOCENG"
+  },
+  {
+    "index": 343,
+    "soal": "M-E-T-P-E-R-O-T",
+    "clue": "Benda",
+    "jawaban": "TEROMPET"
+  },
+  {
+    "index": 344,
+    "soal": "G-U-N-K-L-A-N-G",
+    "clue": "Benda",
+    "jawaban": "ANGKLUNG"
+  },
+  {
+    "index": 345,
+    "soal": "A-N-N-Y-Y-I-P-E",
+    "clue": "Profesi",
+    "jawaban": "PENYANYI"
+  },
+  {
+    "index": 346,
+    "soal": "D-A-N-G-P-A-G-E",
+    "clue": "Pekerjaan",
+    "jawaban": "PEDAGANG"
+  },
+  {
+    "index": 347,
+    "soal": "D-R-U-K-I-T-E-R",
+    "clue": "Profesi",
+    "jawaban": "DIREKTUR"
+  },
+  {
+    "index": 348,
+    "soal": "D-E-N-E-P-R-I-S",
+    "clue": "Profesi",
+    "jawaban": "PRESIDEN"
+  },
+  {
+    "index": 349,
+    "soal": "S-I-N-N-Y-U-R-I",
+    "clue": "Profesi",
+    "jawaban": "INSINYUR"
+  },
+  {
+    "index": 350,
+    "soal": "A-R-E-L-M-I-N-T",
+    "clue": "Tempat",
+    "jawaban": "TERMINAL"
+  },
+  {
+    "index": 351,
+    "soal": "A-R-N-I-P-A-R-K",
+    "clue": "Tempat",
+    "jawaban": "PARKIRAN"
+  },
+  {
+    "index": 352,
+    "soal": "A-N-T-R-O-R-S-E",
+    "clue": "Tempat",
+    "jawaban": "RESTORAN"
+  }
+]

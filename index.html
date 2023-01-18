@@ -1,0 +1,22 @@
+<title>WHATSAPP BOT</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="/socket.io/socket.io.js"></script>
+<h1 id="sts">Initializing</h1>
+<img id="qr"></img></br>
+<a href="/infobot">Info Bot</a>
+<script type="text/javascript">
+   const socket = io();
+   socket.on("qr", (qr) => {
+   if (!qr) return
+   document.getElementById("sts").innerText="Scan Qr Code"
+   document.getElementById("qr").src= qr;
+   })
+   socket.on("connected", (d) => {
+   document.getElementById("sts").innerText=`connected to : ${d.id}`
+   document.getElementById("qr").src= "";
+   })
+   socket.on("disconnected", (d) => {
+   document.getElementById("sts").innerText="Disconnected";
+   document.getElementById("qr").src= "";
+   })
+</script>
