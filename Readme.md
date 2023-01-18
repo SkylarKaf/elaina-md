@@ -28,7 +28,7 @@ SC INI JAN DI JUAL BELIIN NAK JB KON
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
 
-## Request Fitur To
+## Jika ada fitur error chat
 [`Creator Here`](https://wa.me/6282331660134?text=Bang+req+fitur) 
 
 ## Instalasi
