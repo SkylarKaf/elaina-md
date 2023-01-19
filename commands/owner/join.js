@@ -30,13 +30,7 @@ module.exports = {
 							displayText: "Owner Group",
 							url: `https://wa.me/${accept.subjectOwner.split('@')[0]}`,
 						},
-					},
-					{
-						urlButton: {
-							displayText: "Copy Link Group",
-							url: `https://www.whatsapp.com/otp/copy/${text}`,
-						},
-					},
+					},					
 					{
 						quickReplyButton: {
 							displayText: "Join",
