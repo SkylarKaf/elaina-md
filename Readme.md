@@ -24,9 +24,11 @@ SC INI JAN DI JUAL BELIIN NAK JB KON
 
 # Baca Ini!
 - Sc ini hasil recode dari: [Kanaeru](https://github.com/Zynfinity/Kanaeru-Bot)
-- Change Owner: [Config](https://github.com/SkylarKaf/elaina-md/blob/master/config.js)
+- Ganti Owner: [Config](https://github.com/SkylarKaf/elaina-md/blob/master/config.js)
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
+- Support: Ubuntu, Windows, Termux, Panel? Gk stabil
+- Jika stc error: install webp
 
 ## Jika ada fitur error chat
 [`Creator Here`](https://wa.me/6282331660134?text=Bang+req+fitur) 
