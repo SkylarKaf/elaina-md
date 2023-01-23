@@ -20,6 +20,7 @@ class config {
 	static server = true
 	static email = 'skylarkaf07@gmail.com'
 	static instagram = 'https://instagram.com/skylarkaf_'
+        static wagrup = 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'
 	static prefixs = "multi"
 	static session = "xyz"
 	static ownername = "SkylarKaf"
