@@ -1,17 +1,29 @@
-let { ytv } = require("../../lib/y2mate");
 module.exports = {
 	name: "ytmp4",
 	param: "<url>",
-	cmd: ["ytmp4", "ytvid", "ytvideo", "ytv"],
+	cmd: ["ytmp4"],
 	category: "downloader",
 	desc: "download video from youtube",
 	query: true,
 	url: true,
 	async handler(m, { conn, text }) {
-		conn.sendReact(m.from, '🕒', m.key)	
-          let quality = '360p'
-          let media = await ytv(text, quality)		
-          if (media.filesize >= 999999) return m.reply('*AKSES DITOLAK!*, size Media terlalu besar! '+util.format(media))
-	    conn.sendMessage(m.from, { video: {url:media.dl_link}, mimetype: 'video/mp4', fileName: `${media.title}.mp4`}, { quoted: m })						
-    }
-}
+		conn.sendReact(m.from, '🕒', m.key)
+		const down = await scrapp.youtube("mp4", await scrapp.expandUrl(text));
+		const link = down.link;
+		down.author = down.author.name;
+		if (link == undefined) return m.reply("Cannot find download url!");
+		if (m.type != "templateButtonReplyMessage" && m.type != "buttonsResponseMessage")
+	   try{
+			const tsize = down.size.split(' ')[1]
+			if(down.size.split('.')[0].split(' ')[0] > 150 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(link)}`)
+			await conn.sendMessage(m.from, { document: { url: link }, mimetype: "video/mp4", fileName: down.title }, { quoted: m});
+		}catch{
+			const down = await scrapp.y1s('mp4', await scrapp.expandUrl(text))
+			if(!down.status) return m.reply(down)
+			if(!down.dlink) return m.reply("Cannot find download url!");
+			const tsize = down.size.split(' ')[1]
+			if(down.size.split('.')[0].split(' ')[0] > 150 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(down.dlink)}`)
+			await conn.sendMessage(m.from, { document: { url: down.dlink }, mimetype: "video/mp4", fileName: down.title }, {quoted: m})
+		}
+	},
+};
