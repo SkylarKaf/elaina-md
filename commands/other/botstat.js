@@ -11,7 +11,7 @@ const formatSize = sizeFormatter({
 const speed = require('performance-now')
 module.exports = {
 	name: ["status"],
-	cmd: ["status", 'ping'],
+	cmd: ['status', 'ping', 'runtime', 'test', 'p'],
 	category: "other",
 	desc: "Bot status",
 	async handler(m, {conn}) {
@@ -20,8 +20,11 @@ module.exports = {
 		let text = "";
 		text += `*HOST:*\n`;
 		text += `${shp} Arch: ${os.arch()}\n`
-		text += `${shp} Release: ${os.release()}\n`
-    	text += `${shp} Memory: ${formatSize(os.totalmem() - os.freemem())} / ${formatSize(os.totalmem())}\n`;
+		text += `${shp} Hostname: ${os.hostname()}\n`
+		text += `${shp} Release: ${os.release()}\n`		
+		text += `${shp} Type: ${os.type()}\n`
+		text += `${shp} Machine: ${os.machine()}\n`	
+    	text += `${shp} Memory: ${formatSize(os.totalmem() - os.freemem())} / ${formatSize(os.totalmem())}\n`;    	    	
 		text += `${shp} Platform: ${os.platform()}\n`;
 		text += `${shp} Version: ${os.version()}\n\n`		
     	text += `*BOT STAT:*\n`
