@@ -37,7 +37,7 @@ SC INI JAN DI JUAL BELIIN NAK JB KON
 
 ### Dibutuhkan
 
-1.  [Nodejs](https://nodejs.org/en/download) 16x/17x
+1.  [Nodejs](https://nodejs.org/en/download) 17/18/19x
 2.  [FFmpeg](https://ffmpeg.org)
 3.  [libWebP](https://developers.google.com/speed/webp/download)
 
