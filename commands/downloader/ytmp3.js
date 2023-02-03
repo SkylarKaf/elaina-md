@@ -29,14 +29,14 @@ module.exports = {
 		try{
 			const tsize = down.size.split(' ')[1]
 			if(down.size.split('.')[0].split(' ')[0] > 100 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(link)}`)
-			await conn.sendMessage(m.from,{ document: { url: link }, mimetype: 'audio/mp4', fileName: mdata.title},{ quoted: m });
+			await conn.sendMessage(m.from,{ document: { url: link }, mimetype: 'audio/mp3', fileName: mdata.title},{ quoted: m });
 		}catch{
 			const down = await scrapp.y1s('mp3', await scrapp.expandUrl(text))
 			if(!down.status) return m.reply(down)
 			if(!down.dlink) return m.reply("Cannot find download url!");
 			const tsize = down.size.split(' ')[1]
 			if(down.size.split('.')[0].split(' ')[0] > 100 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(down.dlink)}`)
-			await conn.sendMessage(m.from, {document: {url: down.dlink}, mimetype: 'audio/mp4', fileName: mdata.title}, {quoted: m})
+			await conn.sendMessage(m.from, {document: {url: down.dlink}, mimetype: 'audio/mp3', fileName: mdata.title}, {quoted: m})
 		}
     },
 };
