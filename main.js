@@ -90,47 +90,45 @@ const connect = async () => {
   };
   baileysstore.bind(conn.ev);
   conn.ev.on("creds.update", saveCreds);
-  
-  conn.ev.on('connection.update', (update) => {
-    const { connection, lastDisconnect } = update
-         if (connection == "connecting") console.log("Connecting to the WhatsApp bot...");
-         if (connection) {
-         if (connection != "connecting") console.log("Connection: " + connection);
-         }
-      if (connection == "open") {
-	  console.log(chalk.yellow("Successfully connected to whatsapp"))
-	  conn.sendMessage(config.owner[0],{text: "System Online!"})
-      }
+	conn.ev.on("connection.update", async (ktl) => {
+	  const { lastDisconnect, connection } = ktl;
+	  if (connection == "connecting") console.log(chalk.cyan('Connecting to the WhatsApp bot...'))
+	  if (connection) {
+	    if (connection != "connecting") 
+	      console.log(chalk.yellow("Connection: " + connection))
+	  }
+	  if (connection == "open") {
+	    console.log(chalk.yellow("Successfully connected to whatsapp"))
+	    conn.sendMessage(config.owner[0],{text: "*System Online!*"})
+	  }
 	  if (connection === "close") {
-      let reason = new Boom(lastDisconnect.error).output.statusCode;
-      console.log(reason)
-      if (reason === DisconnectReason.badSession) {
-        console.log(`Bad Session File, Please Delete ${config.session} and Scan Again`);
-        connect();
-      } else if (reason === DisconnectReason.connectionClosed) {
-        console.log("Connection closed, reconnecting....");
-        connect();
-      } else if (reason === DisconnectReason.connectionLost) {
-        console.log("Connection Lost from Server, reconnecting...");
-        connect();
-      } else if (reason === DisconnectReason.connectionReplaced) {
-        console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First");
-        conn.logout();
-      } else if (reason === DisconnectReason.loggedOut) {
-        console.log(`Device Logged Out, Please Delete ${config.session} and Scan Again.`);
-        conn.logout();
-      } else if (reason === DisconnectReason.restartRequired) {
-        console.log("Restart Required, Restarting...");
-        connect();
-      } else if (reason === DisconnectReason.timedOut) {
-        console.log("Connection TimedOut, Reconnecting...");
-        connect();
-      } else {
-        conn.end(`Unknown DisconnectReason: ${reason}|${lastDisconnect.error}`);
-        connect()
-      }
-    }
-  });
+			let reason = new Boom(lastDisconnect.error).output.statusCode;
+			if (reason === DisconnectReason.badSession) {
+				console.log(chalk.red(`Bad Session File, Please Delete session and Scan Again`));
+				conn.logout();
+			} else if (reason === DisconnectReason.connectionClosed) {
+				console.log(chalk.red("Connection closed, reconnecting...."));
+				connect();
+			} else if (reason === DisconnectReason.connectionLost) {
+				console.log(chalk.red("Connection Lost from Server, reconnecting..."));
+				connect();
+			} else if (reason === DisconnectReason.connectionReplaced) {
+				console.log(chalk.red("Connection Replaced, Another New Session Opened, Please Close Current Session First"));
+				conn.logout();
+			} else if (reason === DisconnectReason.loggedOut) {
+				console.log(chalk.red(`Device Logged Out, Please Delete session and Scan Again.`));
+				conn.logout();
+			} else if (reason === DisconnectReason.restartRequired) {
+				console.log(chalk.yellow("Restart Required, Restarting..."));
+				connect();
+			} else if (reason === DisconnectReason.timedOut) {
+				console.log("Connection TimedOut, Reconnecting...");
+				connect();
+			} else {
+				conn.end(`Unknown DisconnectReason: ${reason}|${lastDisconnect.error}`);
+			}
+		}
+	})
   //anticall
   conn.ws.on("CB:call", async (json) => {
     require("./event/call")(json, conn);
