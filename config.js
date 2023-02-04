@@ -20,7 +20,9 @@ class config {
 	static server = true
 	static email = 'skylarkaf07@gmail.com'
 	static instagram = 'https://instagram.com/skylarkaf_'
-        static wagrup = 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'
+	static wagrup = 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'
+	static adRep1 = 'https://telegra.ph/file/562e41de727f605b9ad93.jpg'
+	static adRep2 = 'https://telegra.ph/file/9d155a6d06a7b290b8ffe.jpg'
 	static prefixs = "multi"
 	static session = "xyz"
 	static ownername = "SkylarKaf"
@@ -70,6 +72,14 @@ global.reload = (path) => {
 			}
 	}
 };
+
+//reload if update
+global.reloadFile = (file, options = {}) => {
+    nocache(file, module => {
+    console.log(`File "${file}" has updated!\nRestarting!`)
+    process.send("reset")
+    })
+}
 
 
 //module
