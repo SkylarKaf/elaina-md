@@ -1,7 +1,7 @@
 module.exports = {
 	name: "ytmp4",
 	param: "<url>",
-	cmd: ["ytmp4"],
+	cmd: ["ytmp4", "ytv", "ytvideo"],
 	category: "downloader",
 	desc: "download video from youtube",
 	query: true,
