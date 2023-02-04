@@ -80,7 +80,8 @@ global.maker = require('mumaker');
 global.rzky = new iky();
 
 //other
-global.owner = ["6282331660134@s.whatsapp.net"]; //owner
+global.creator = '@skylarkaf';
+global.owner = config.owner;
 global.response = mess;
 global.users = JSON.parse(fs.readFileSync('./database/json/user.json'));
 global.tool = require("./lib/tools");
