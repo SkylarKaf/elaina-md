@@ -15,7 +15,7 @@ module.exports = {
 			await conn.sendMessage(
 				m.from,
 				{ audio: toaud, mimetype: "audio/mpeg" },
-				{ quoted: m, ptt: false, adReply: true }
+				{ quoted: m, ptt: false }
 			);
 		}
 	},
