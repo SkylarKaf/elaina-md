@@ -20,23 +20,23 @@ module.exports = {
 				type: {
 					id: 3,
 					name: 'front cover'
-				},
-				imageBuffer: await tool.getBuffer(down.thumbnail)
+				}				
 			}
 		}
+		var thumb_yt = {url: down.thumbnail}
 		if (link == undefined) return m.reply("Cannot find download url!");
 		if (m.type != "templateButtonReplyMessage" && m.type != "buttonsResponseMessage")
 		try{
 			const tsize = down.size.split(' ')[1]
 			if(down.size.split('.')[0].split(' ')[0] > 100 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(link)}`)
-			await conn.sendMessage(m.from,{ document: { url: link }, mimetype: 'audio/mpeg', fileName: mdata.title},{ quoted: m });
+			await conn.sendMessage(m.from,{ document: { url: link }, mimetype: "audio/mpeg", fileName: `${mdata.title}.mp3`},{ quoted: m });
 		}catch{
 			const down = await scrapp.y1s('mp3', await scrapp.expandUrl(text))
 			if(!down.status) return m.reply(down)
 			if(!down.dlink) return m.reply("Cannot find download url!");
 			const tsize = down.size.split(' ')[1]
 			if(down.size.split('.')[0].split(' ')[0] > 100 && tsize != 'KB' || tsize == "GB") return m.reply(`Oversize, silahkan download melalui link dibawah\n${await tool.tiny(down.dlink)}`)
-			await conn.sendMessage(m.from, {document: {url: down.dlink}, mimetype: 'audio/mpeg', fileName: mdata.title}, {quoted: m})
+			await conn.sendMessage(m.from, {document: {url: down.dlink}, mimetype: 'audio/mpeg', fileName: `${mdata.title}.mp3`}, {quoted: m})
 		}
     },
 };
