@@ -1,11 +1,9 @@
+// HAYOLOO MAU AMBIL THUMBNAIL GEDE YA?
+
 const fs = require("fs");
-const dcanvas = require('discord-canvas')
-const { tiny } = require("../lib/tools");
-const encodeurl = require("encodeurl");
-const bgurl = "https://telegra.ph/file/052d8a1b43b2eb0065e6c.jpg";
 async function greeting(json, conn) {
 	const action = json.action;
-	await db.read();
+	await db.read();	
 	if (action == "add") {
 		const cekdata = db.data.welcome[json.id];
 		if (cekdata == undefined) return;
@@ -20,26 +18,33 @@ async function greeting(json, conn) {
 		const ruser = txt.replace(/@user/, user);
 		const rsubject = ruser.replace(/@subject/g, subject);
 		const greet = rsubject.replace(/@desc/g, desc);
-		const ppuser = await conn.profilePictureUrl(user, 'image').catch(() => 'https://divedigital.id/wp-content/uploads/2021/10/2-min.png')
-		const totiny = await tiny(ppuser);
-    	const asu = await tool.getRandom()
-	  	const asi = asu.replace('undefined', '')
-    	const image = await new dcanvas.Welcome()
-			.setUsername(user.split("@")[0])
-			.setDiscriminator(asi)
-			.setMemberCount(mdata.participants.length)
-			.setGuildName(encodeurl(mdata.subject.replace(/#/, "")))
-			.setAvatar(totiny)
-			.setColor("border", "#8015EA")
-			.setColor("username-box", "#8015EA")
-			.setColor("discriminator-box", "#8015EA")
-			.setColor("message-box", "#8015EA")
-			.setColor("title", "#8015EA")
-			.setColor("avatar", "#8015EA")
-			.setBackground(bgurl)
-			.toAttachment();
-		await conn.sendMessage(json.id, {image: image.toBuffer(), caption: greet, withTag: true})
-	} else if (action == "remove") {
+		const pp_user = await conn.profilePictureUrl(user, 'image').catch(() => 'https://divedigital.id/wp-content/uploads/2021/10/2-min.png')
+		const ppuser = await tool.getBuffer(pp_user)  	
+	 	 let buttons = [{buttonId: `.`, buttonText: {displayText: 'Welcome 👋'}, type: 1}]
+         let welcomeMessage = {
+              document: ppuser,
+              mimetype: `application/rtf`,                 
+              fileName: `${mdata.subject}`,
+              fileLength: 9999999999,
+              caption: txt,
+              footer: `welcome msg by @elaina-md`,
+              buttons: buttons,
+              mentions: [user],
+              headerType: 4,
+              contextInfo:{externalAdReply:{
+                title: `Welcome to ${mdata.subject}`,
+                body: `Semoga betah disini :)`,
+                jpegThumbnail: ppuser,
+                thumbnail: ppuser,
+                mediaType: 1,             
+                renderLargerThumbnail: true, 
+                "previewType": "VIDEO",
+                "mediaUrl": `pp`,
+                sourceUrl: `pp`
+                 }}
+                }                
+    conn.sendMessage(json.id, welcomeMessage, {withTag: true})                
+   	} else if (action == "remove") {
 		const cekdata = db.data.left[json.id];
 		if (cekdata == undefined) return;
 		if (!cekdata.status) return;
@@ -53,26 +58,33 @@ async function greeting(json, conn) {
 		const ruser = txt.replace(/@user/, user);
 		const rsubject = ruser.replace(/@subject/g, subject);
 		const greet = rsubject.replace(/@desc/g, desc);
-		const ppuser = await conn.profilePictureUrl(user, 'image').catch(() => 'https://divedigital.id/wp-content/uploads/2021/10/2-min.png')
-		const totiny = await tiny(ppuser);
-    	const asu = await tool.getRandom()
-	  	const asi = asu.replace('undefined', '')
-    	const image = await new dcanvas.Goodbye()
-			.setUsername(user.split("@")[0])
-			.setDiscriminator(asi)
-			.setMemberCount(mdata.participants.length)
-			.setGuildName(encodeurl(mdata.subject.replace(/#/, "")))
-			.setAvatar(totiny)
-			.setColor("border", "#8015EA")
-			.setColor("username-box", "#8015EA")
-			.setColor("discriminator-box", "#8015EA")
-			.setColor("message-box", "#8015EA")
-			.setColor("title", "#8015EA")
-			.setColor("avatar", "#8015EA")
-			.setBackground(bgurl)
-			.toAttachment();
-		await conn.sendMessage(json.id, {image: image.toBuffer(), caption: greet, withTag: true})
-	}
+		const pp_user = await conn.profilePictureUrl(user, 'image').catch(() => 'https://divedigital.id/wp-content/uploads/2021/10/2-min.png')
+		const ppuser = await tool.getBuffer(pp_user)  	
+	 	 let buttons = [{buttonId: `.`, buttonText: {displayText: 'Byee 👋'}, type: 1}]
+         let leaveMessage = {
+              document: ppuser,
+              mimetype: `application/rtf`,                 
+              fileName: `${mdata.subject}`,
+              fileLength: 9999999999,
+              caption: txt,
+              footer: `leaveing msg by @elaina-md`,
+              buttons: buttons,
+              mentions: [user],
+              headerType: 4,
+              contextInfo:{externalAdReply:{
+                title: `Leaving from ${mdata.subject}`,
+                body: `Balik lagi ya :(`,
+                jpegThumbnail: ppuser,
+                thumbnail: ppuser,
+                mediaType: 1,             
+                renderLargerThumbnail: true, 
+                "previewType": "VIDEO",
+                "mediaUrl": `pp`,
+                sourceUrl: `pp`
+                 }}
+                }                
+    conn.sendMessage(json.id, leaveMessage, {withTag: true})       
+		}
 }
 module.exports = greeting;
 let file = require.resolve(__filename);
