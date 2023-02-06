@@ -12,6 +12,41 @@ SC INI JAN DI JUAL BELIIN NAK JB KON
 </p>
 </div>
 
+
+## Options
+
+Options pada command, yang akan mempermudah kamu untuk membuat/menambahkan fitur<br />
+
+```js
+module.exports = {
+   name: <String> or <Array>, // Ex: "menu"
+   cmd: <Array>, // Ex: ["cmd","help"]
+   desc: <String>, // Ex: "Menu adalah command"
+   param: <String>,  // Ex: "<teks>"
+   category: <String>, // Ex: "other"
+   query: <Boolean>, // Ex: true
+   url: <Boolean>, // Ex: true
+   isOwner: <Boolean>, // Ex: false
+   isAdmin: <Boolean>, // Ex: false
+   isBotAdmin: <Boolean>, // Ex: false
+   //etc 
+}
+```
+
+## Contoh Options
+
+Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/elaina-md/blob/master/commands/other/botstat.js)<br />
+
+```js
+{
+  name: ["status"],
+  cmd: ['status', 'ping', 'runtime', 'test', 'p'],
+  category: "other",
+  desc: "Bot status",
+}
+```
+
+
 ## Sorotan
 
 -   [x] Simple Penggunaan
@@ -124,5 +159,7 @@ npm start
 -    [`SkylarKaf`](https://github.com/SkylarKaf)
 -    [`xzeraaID`](https://github.com/xzeera-id)
 -    [`Alya`](https://github.com/alya-tok)
+-    [`Lui`](https://github.com/luiii24)
+
 
 
