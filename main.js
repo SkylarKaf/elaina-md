@@ -105,7 +105,7 @@ const connect = async () => {
 			let reason = new Boom(lastDisconnect.error).output.statusCode;
 			if (reason === DisconnectReason.badSession) {
 				console.log(chalk.red(`Bad Session File, Please Delete session and Scan Again`));
-				conn.logout();
+				connect();
 			} else if (reason === DisconnectReason.connectionClosed) {
 				console.log(chalk.red("Connection closed, reconnecting...."));
 				connect();
@@ -126,7 +126,8 @@ const connect = async () => {
 				connect();
 			} else {
 				conn.end(`Unknown DisconnectReason: ${reason}|${lastDisconnect.error}`);
-			}
+                                connect()
+                        }
 		}
 	})
   //anticall
