@@ -8,7 +8,6 @@
 <p align="center">
 CREDIT JAN DI HAPUS!
 <br/>
-SC INI JAN DI JUAL BELIIN NAK JB KON
 </p>
 </div>
 
@@ -46,7 +45,6 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/el
 }
 ```
 
-
 ## Sorotan
 
 -   [x] Simple Penggunaan
@@ -62,11 +60,13 @@ Contoh Command : [`./commands/other/botstat.js`](https://github.com/SkylarKaf/el
 - Ganti Owner: [Config](https://github.com/SkylarKaf/elaina-md/blob/master/config.js)
 - Library: [AmirulDev Baileys](https://www.npmjs.com/package/baileys)
 - Session: MultiFileAuthState
-- Support: Ubuntu, Windows, Termux, Panel? Gk stabil
+- Support: Ubuntu, Windows, Termux & Panel
 - Jika stc error: install webp
 
-## Jika ada fitur error chat
-[`Creator Here`](https://wa.me/6282331660134?text=Bang+req+fitur) 
+## Untuk yang Run Panel!!
+- Pastikan panel tersebut Support webpmux! 
+- Jika tidak paham chat owner untuk bertanya
+- [`Owner Here`](https://wa.me/6282331660134?text=Bang) 
 
 ## Instalasi
 
