@@ -7,7 +7,7 @@ const {
   DisconnectReason,
   delay,
   default: makeWASocket,
-} = require("baileys");
+} = require("@adiwajshing/baileys");
 const pino = require("pino");
 const fs = require("fs");
 const path = require("path");
@@ -126,8 +126,8 @@ const connect = async () => {
 				connect();
 			} else {
 				conn.end(`Unknown DisconnectReason: ${reason}|${lastDisconnect.error}`);
-                                connect()
-                        }
+                connect()
+            }
 		}
 	})
   //anticall
