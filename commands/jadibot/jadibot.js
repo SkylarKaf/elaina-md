@@ -15,7 +15,7 @@ module.exports = {
 			DisconnectReason,
 			delay,
 			default: makeWASocket,
-		} = require("baileys");
+		} = require("@adiwajshing/baileys");
 		try {
 		const button = [
 			{
@@ -39,7 +39,7 @@ module.exports = {
 			}
 		}
 		if((Object.keys(conns)).length >= 2) return m.reply('Client bot sudah mencapai maksimal (2)')
-		const session = `./jadibot/${m.sender}.json`
+		const session = `./temp/jadibot/${m.sender}`
 		const { state, saveCreds  } = await useMultiFileAuthState(session)
 		const connect = async() => {	
 			conns[m.sender] = await makeWASocket({
