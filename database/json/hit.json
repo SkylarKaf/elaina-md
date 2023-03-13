@@ -8,9 +8,9 @@
   },
   "menu": {
     "cmd": "menu",
-    "timestamp": 1674005578737,
-    "total": 136,
-    "success": 134,
+    "timestamp": 1678700842073,
+    "total": 140,
+    "success": 138,
     "failed": 2
   },
   "sticker": {
@@ -22,9 +22,9 @@
   },
   "owner": {
     "cmd": "owner",
-    "timestamp": 1673172997640,
-    "total": 24,
-    "success": 21,
+    "timestamp": 1678701052345,
+    "total": 27,
+    "success": 24,
     "failed": 3
   },
   "toimg": {
@@ -259,9 +259,9 @@
   },
   "igstalk": {
     "cmd": "igstalk",
-    "timestamp": 1672652419168,
-    "total": 7,
-    "success": 7,
+    "timestamp": 1675892345457,
+    "total": 8,
+    "success": 8,
     "failed": 0
   },
   "listgroup": {
@@ -716,9 +716,9 @@
   },
   "jadibot": {
     "cmd": "jadibot",
-    "timestamp": 1673408355478,
-    "total": 4,
-    "success": 4,
+    "timestamp": 1675893762249,
+    "total": 8,
+    "success": 8,
     "failed": 0
   },
   "delsessionbot": {
@@ -730,9 +730,9 @@
   },
   "listbot": {
     "cmd": "listbot",
-    "timestamp": 1673408604405,
-    "total": 1,
-    "success": 1,
+    "timestamp": 1675893719601,
+    "total": 4,
+    "success": 4,
     "failed": 0
   },
   "anoboy": {
@@ -755,5 +755,12 @@
     "total": 1,
     "success": 0,
     "failed": 1
+  },
+  "stopbot": {
+    "cmd": "stopbot",
+    "timestamp": 1675893745132,
+    "total": 1,
+    "success": 1,
+    "failed": 0
   }
 }

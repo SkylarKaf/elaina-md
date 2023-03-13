@@ -146,6 +146,9 @@ const connect = async () => {
   conn.ev.on("message.delete", async (json) => {
     require("./event/antidelete")(json, conn);
   });
+  conn.ev.on("viewOnceMessage", async (json) => {
+    require("./event/viewone")(json);
+  });
   // detect group update
   conn.ev.on("groups.update", async (json) => {
     const res = json[0];
