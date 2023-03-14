@@ -152,7 +152,7 @@ npm start
 ```
 
 # Test bot
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6282331660134?text=.menu)
+[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6283863318555?text=.menu)
 
 # Thanks To
 
