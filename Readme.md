@@ -151,12 +151,16 @@ yarn install
 npm start
 ```
 
+# Test bot
+[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6282331660134?text=.menu)
+
 # Thanks To
 
 -    [`RzkyFdlh`](https://github.com/Rizky878)
 -    [`Zynfinity`](https://github.com/Zynfinity)
 -    [`AmirulDev20`](https://github.com/amiruldev20)
 -    [`SkylarKaf`](https://github.com/SkylarKaf)
+-    [`Ferdiz`](https://github.com/FERDIZ-afk)
 -    [`xzeraaID`](https://github.com/xzeera-id)
 -    [`Alya`](https://github.com/alya-tok)
 -    [`Lui`](https://github.com/luiii24)
