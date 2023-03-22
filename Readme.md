@@ -7,6 +7,8 @@
  </p>
 <p align="center">
 CREDIT JAN DI HAPUS!
+
+Jikalau kau ingin di hargai, Hargai org terlebih dahulu
 <br/>
 </p>
 </div>
