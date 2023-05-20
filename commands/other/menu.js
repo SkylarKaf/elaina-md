@@ -85,7 +85,7 @@ module.exports = {
 		}				
 		var fotxt = `Special Credits\n`
         fotxt += `• Rzkyfdlh\n• Zynfinity\n• AmirulDev\n• SkylarKaf\n• AhmadLui\n• Alya-Tok`        
-		const buttonsTemp = [
+		/*const buttonsTemp = [
 			{index: 1, urlButton: {displayText: 'Instagram', url: 'https://instagram.com/skylarkaf_'}},
             {index: 2, urlButton: {displayText: 'Whatsapp Group', url: 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'}},
             {index: 3, quickReplyButton: {displayText: 'Owner', id: `.owner`}},
@@ -98,7 +98,18 @@ module.exports = {
 			templateButtons: buttonsTemp,			    
 			headerType: 1
 			}                  
-	 conn.sendMessage(m.from, menunya, { quoted: m })
+	 conn.sendMessage(m.from, menunya, { quoted: m })*/
+     conn.sendMessage(m.from, {
+text: menu,
+contextInfo: {
+externalAdReply: {
+title: fotxt,
+body: 'bodynya',
+thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
+sourceUrl: "https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r",
+mediaType: 1,
+renderLargerThumbnail: true
+}}}, { quoted: m})
 	  } catch (e) {
 	  m.reply(e)
  	   }
